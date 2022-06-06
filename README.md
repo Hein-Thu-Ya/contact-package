@@ -28,3 +28,6 @@ This will create a new config file named ```config/contact.php```
 ```
 php artisan migrate
 ```
+
+<br>
+contact form url - localhost:8000/contact 
